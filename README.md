@@ -8,6 +8,7 @@ This repository contains Java implementations of common Data Structures and Algo
 - Strings
 - Linked Lists
 - Searching and Sorting
+- Patterns
 
 ## Purpose
 To strengthen problem-solving skills and core Java concepts.
